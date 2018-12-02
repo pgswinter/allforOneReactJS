@@ -1,0 +1,30 @@
+{
+    "accounts":[
+        {
+            "username":"admin01",
+            "password":"123"
+        },
+        {
+            "username":"admin02",
+            "password":"123"
+        },
+        {
+            "username":"admin03",
+            "password":"123"
+        }
+    ],
+    "permissions":[
+        {
+            "admin": 0
+        },
+        {
+            "controlPanel": 1
+        },
+        {
+            "user": 2
+        },
+        {
+            "anonymouse": 3
+        }
+    ]
+}
